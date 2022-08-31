@@ -5,7 +5,7 @@ body {
 }
 
 .item {
-    background-color: green;
+    background-color: white;
     padding: 15px;
     margin-bottom: 15px;
     border: transparent;
@@ -23,7 +23,7 @@ body {
 }
 
 .toggles {
-    color: red;
+    color: black;
 }
 
 .name {
